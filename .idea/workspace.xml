@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c51aa18-b50e-44d4-8384-4adea94b7dfc" name="Changes" comment="feat: meu projeto contaBanco">
+      <change beforePath="$PROJECT_DIR$/src/edu/diegodev/desafios/sintaxe/ContaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/diegodev/desafios/sintaxe/ContaBanco.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DiegoHenriqueSouza&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DiegoHenriqueSouza/trilha-java-basico.git&quot;,
+    &quot;accountId&quot;: &quot;88a80355-7529-4e4a-8c60-b1e32a9a7670&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/edu/diegodev/introdução/Pessoa.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HkCB0kbiNuMWLSPQAc8IvagynL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AboutMe.executor": "Run",
+    "Application.ContaBanco.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinhaClasse.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ContaBanco">
+    <configuration name="AboutMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.diegodev.introdução.AboutMe" />
+      <module name="trilha-java-basico" />
+      <option name="PROGRAM_PARAMETERS" value="Diego Henrique 22 1.83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.diegodev.desafios.sintaxe.ContaBanco" />
+      <module name="trilha-java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.diegodev.desafios.sintaxe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ContaBanco" />
+      <item itemvalue="Application.AboutMe" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ContaBanco" />
+        <item itemvalue="Application.AboutMe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c51aa18-b50e-44d4-8384-4adea94b7dfc" name="Changes" comment="" />
+      <created>1786402540551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786402540551</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Feat: commit incial">
+      <option name="closed" value="true" />
+      <created>1786406479378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786406479378</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feat: commit incial">
+      <option name="closed" value="true" />
+      <created>1786406586517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786406586517</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: editando repositório para enfase em desafios">
+      <option name="closed" value="true" />
+      <created>1786572131390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1786572131390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: editando repositório para ênfase em desafios">
+      <option name="closed" value="true" />
+      <created>1786572246535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786572246535</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: meu projeto contaBanco">
+      <option name="closed" value="true" />
+      <created>1786572524126</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786572524126</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: commit incial" />
+    <MESSAGE value="feat: editando repositório para enfase em desafios" />
+    <MESSAGE value="feat: editando repositório para ênfase em desafios" />
+    <MESSAGE value="feat: meu projeto contaBanco" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: meu projeto contaBanco" />
+  </component>
+</project>
