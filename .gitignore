@@ -1,0 +1,11 @@
+# Arquivos compilados do Java
+*.class
+
+# Pasta de saída do IntelliJ
+out/
+
+# Configurações do IntelliJ
+.idea/
+
+# Arquivos de projeto do IntelliJ
+*.iml
