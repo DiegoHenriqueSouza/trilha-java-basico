@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c51aa18-b50e-44d4-8384-4adea94b7dfc" name="Changes" comment="feat: meu projeto contaBanco">
-      <change beforePath="$PROJECT_DIR$/src/edu/diegodev/desafios/sintaxe/ContaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/diegodev/desafios/sintaxe/ContaBanco.java" afterDir="false" />
+    <list default="true" id="4c51aa18-b50e-44d4-8384-4adea94b7dfc" name="Changes" comment="add: gitignore">
+      <change afterPath="$PROJECT_DIR$/src/edu/diegodev/desafios/controlefluxo/CaixaEletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/diegodev/desafios/controlefluxo/PlanoOperadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/diegodev/desafios/controlefluxo/ResultadoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/diegodev/desafios/controlefluxo/SistemaMedida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,39 +57,62 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AboutMe.executor": "Run",
+    "Application.CaixaEletronico.executor": "Run",
     "Application.ContaBanco.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MinhaClasse.executor": "Run",
+    "Application.PlanoOperadora.executor": "Run",
+    "Application.ResultadoEscolar.executor": "Run",
+    "Application.SistemaMedida.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.popup"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ContaBanco">
-    <configuration name="AboutMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.diegodev.introdução.AboutMe" />
+  <component name="RunManager" selected="Application.CaixaEletronico">
+    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.diegodev.desafios.controlefluxo.CaixaEletronico" />
       <module name="trilha-java-basico" />
-      <option name="PROGRAM_PARAMETERS" value="Diego Henrique 22 1.83" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.diegodev.desafios.controlefluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.diegodev.desafios.sintaxe.ContaBanco" />
+    <configuration name="PlanoOperadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.diegodev.desafios.controlefluxo.PlanoOperadora" />
       <module name="trilha-java-basico" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.diegodev.desafios.sintaxe.*" />
+          <option name="PATTERN" value="edu.diegodev.desafios.controlefluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaMedida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.diegodev.desafios.controlefluxo.SistemaMedida" />
+      <module name="trilha-java-basico" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.diegodev.desafios.controlefluxo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,21 +121,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ContaBanco" />
-      <item itemvalue="Application.AboutMe" />
+      <item itemvalue="Application.PlanoOperadora" />
+      <item itemvalue="Application.SistemaMedida" />
+      <item itemvalue="Application.CaixaEletronico" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContaBanco" />
-        <item itemvalue="Application.AboutMe" />
+        <item itemvalue="Application.CaixaEletronico" />
+        <item itemvalue="Application.PlanoOperadora" />
+        <item itemvalue="Application.SistemaMedida" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
       </set>
     </attachedChunks>
   </component>
@@ -160,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786572524126</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add: gitignore">
+      <option name="closed" value="true" />
+      <created>1786576524554</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786576524554</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +231,7 @@
     <MESSAGE value="feat: editando repositório para enfase em desafios" />
     <MESSAGE value="feat: editando repositório para ênfase em desafios" />
     <MESSAGE value="feat: meu projeto contaBanco" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: meu projeto contaBanco" />
+    <MESSAGE value="add: gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: gitignore" />
   </component>
 </project>
